@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathService", "MathService\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathService.Tests", "MathService.Tests\MathService.Tests.csproj", "{8ACEAE4F-7BDD-42E2-8CD4-F2333BF3B1EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webx", "webx\webx.csproj", "{D5F49F01-97D4-439C-9E0E-7E509E758738}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{8ACEAE4F-7BDD-42E2-8CD4-F2333BF3B1EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ACEAE4F-7BDD-42E2-8CD4-F2333BF3B1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ACEAE4F-7BDD-42E2-8CD4-F2333BF3B1EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F49F01-97D4-439C-9E0E-7E509E758738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F49F01-97D4-439C-9E0E-7E509E758738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F49F01-97D4-439C-9E0E-7E509E758738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F49F01-97D4-439C-9E0E-7E509E758738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
